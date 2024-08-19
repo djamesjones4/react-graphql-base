@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `nvm use`
+This will ensure that node version manager uses the correct version of Node for this application, listed in the .nvmrc file.
+
 ### `npm start`
 
 Runs the app in the development mode.\
